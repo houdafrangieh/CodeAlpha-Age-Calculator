@@ -1,2 +1,2 @@
 # CodeAlpha-Age-Calculator
-First task during my internship for web development with codealpha 
+First task during my 3 months internship for web development with codealpha 
